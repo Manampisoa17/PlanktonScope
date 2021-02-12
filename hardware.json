@@ -1,11 +1,11 @@
 {
-  "stepper_reverse": false,
-  "microsteps": 32,
-  "focus_steps_per_mm": 40,
-  "pump_steps_per_ml": 507,
-  "focus_max_speed": 0.5,
-  "pump_max_speed": 30,
-  "stepper_type": "adafruit",
-  "wb_red_gain": 2,
-  "wb_blue_gain": 1.41
+    "stepper_reverse": false,
+    "microsteps": 32,
+    "focus_steps_per_mm": 40,
+    "pump_steps_per_ml": 438.77,
+    "focus_max_speed": 0.5,
+    "pump_max_speed": 30,
+    "stepper_type": "adafruit",
+    "wb_red_gain": 1,
+    "wb_blue_gain": 1
 }
