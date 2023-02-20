@@ -46,6 +46,8 @@ Currently you have an SD card with a software for the PlanktoScope. Now insert t
 
 When the light under the fan hat is blue, this mean that the installation went smoothly and the Planktoscope is ready ✅.
 
+NB :  Une fois que la carte SD est insérée au niveau de la carte Raspberry  Pi , il faut que toute la partie électronique soit montée  (caméra, carte moteur, ventilateur, pompe, moteurs branchés) afin de vérif concrètement si l'installation s'est bien déroulée.           
+
 !!! Tips 
     If you want more information about the meaning of led colors please read this section: [here](debug.md#others-informations)
 
